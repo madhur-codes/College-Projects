@@ -1,4 +1,4 @@
-# Convert Celcius To Fahrenheit
+# Temprature Converter
 
 print("1. Fahrenheit To Celcius")
 print("2. Celcius To Fahrenheit")
